@@ -13,3 +13,5 @@ weclome to new world
 updated by ex1
 
 >>>>>>> ex1
+
+updated by ex2 git brach 
